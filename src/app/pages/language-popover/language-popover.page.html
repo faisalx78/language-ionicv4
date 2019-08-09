@@ -1,0 +1,15 @@
+<ion-header>
+
+</ion-header>
+
+<ion-content>
+    <ion-list lines="full">
+        <ion-item button *ngFor="let lng of languages" (click)="select(lng.value)" detail="false">
+          <img [src]="lng.img" slot="start" width="25px">
+          <ion-label text-wrap>
+            {{ lng.text }}
+          </ion-label>
+          <ion-icon slot="end" name="checkmark" *ngIf="lng.value == selected"></ion-icon>
+        </ion-item>
+      </ion-list>
+</ion-content>

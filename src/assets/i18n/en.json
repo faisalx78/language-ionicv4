@@ -1,0 +1,17 @@
+{
+    "HomePage":"Home",
+    "ServicesPage": "Our Services",
+    "RequestPage": "Service Request",
+    "MyrequestsPage":"My requests",
+    "NotificationsPage":"Notifications",
+    "ProfilePage":"Profile",
+    "EditDataPage":"Edit data",
+    "WalletPage":"Wallet",
+    "LanguagePage":"Language",
+    "CurrencyPage":"Currency",
+    "EvaluateApp":"Evaluate Application",
+    "ShareApp":"Share Application",
+    "SignOut":"Sign Out",
+    "UpdateRequest":"Order Updated",
+    "WelcomePage":"My App"
+}

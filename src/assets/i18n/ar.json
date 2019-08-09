@@ -1,0 +1,17 @@
+{
+    "HomePage":"الرئيسية",
+    "ServicesPage": "خدماتنا",
+    "RequestPage": "طلب خدمة",
+    "MyrequestsPage":"طلباتي",
+    "NotificationsPage":"التنبيهات",
+    "ProfilePage":"حسابي",
+    "EditDataPage":"تعديل البيانات",
+    "WalletPage":"رصيدي",
+    "LanguagePage":"اللغة",
+    "CurrencyPage":"العملة",
+    "EvaluateApp":"تقييم التطبيق",
+    "ShareApp":"مشاركة التطبيق",
+    "SignOut":"خروج",
+    "UpdateRequest":"تم تحديث طلبك",
+    "WelcomePage":"اسم التطبيق"
+}
